@@ -1,8 +1,4 @@
-//alice
 //Alice Code
-//Group5
-//Yasaswini Gorantla
-//Roopa Sri Singam
 #include <zmq.hpp>
 #include <string>
 #include <iostream>
